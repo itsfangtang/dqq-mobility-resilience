@@ -7,7 +7,7 @@ import pandas as pd
 
 # ── Page config ───────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="DQQ Model · Transportation Research Part C: Emerging Technologies 2025",
+    page_title="DQQ Model · TRC 2025",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="collapsed",
