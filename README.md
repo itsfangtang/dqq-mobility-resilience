@@ -4,6 +4,8 @@ This repository contains a **Streamlit** dashboard that visualizes the
 _Double Quadratic Queue (DQQ)_ model for mobility resilience and recovery,
 together with key empirical findings (H1–H4) from U.S. transit data.
 
+The app is deployed at: [`https://dqq-mobility-resilience-asu.streamlit.app/`](https://dqq-mobility-resilience-asu.streamlit.app/).
+
 The app is designed as an interactive, paper-style companion for:
 
 > Fang Tang, Xiangyong Luo, Xuesong (Simon) Zhou  
